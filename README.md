@@ -1,4 +1,4 @@
 # install
-''sh
+```shell
 python3 main.py
-''sh
+
